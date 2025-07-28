@@ -1,0 +1,52 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+Joint Ventures - Company
+*SH = Shareholding
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+*SH (%) City
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+GODREJ KOERBER SUPPLY CHAIN LIMITED
+(U28990MH1996PLC104088)
+49.00 Navi Mumbai
+1.53
+0.00
+22 Nov, 1996
+Active
+Active Compliant
+Joint Ventures - LLP
+*SH = Shareholding
+*OOC = Obligation of Contribution
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+*SH (%) City
+  *OOC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+GODREJ PROPERTY DEVELOPERS LLP
+(AAA-4369)
+0.00 Mumbai
+0.10
+0.00
+5 Apr, 2011
+Strike Off
+Page 21 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

@@ -1,0 +1,143 @@
+
+
+
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Form Submission PDF</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+            font-size: 14px; /* Base font size increased */
+        }
+        h2 {
+            text-align: center;
+            font-weight: bold;
+            font-size: 20px; /* Larger heading */
+            margin-bottom: 20px;
+        }
+        .form-data {
+            margin: 20px;
+            font-size: 14px; /* Ensure consistent base size */
+        }
+        .form-data label {
+            font-weight: bold;
+            display: inline-block;
+            width: 180px;
+            vertical-align: top;
+            font-size: 14px; /* Label size */
+        }
+        .form-data div {
+            margin-bottom: 10px;
+        }
+        .form-data strong {
+            font-size: 14px; /* Value size */
+        }
+        .data-field-item {
+            margin-bottom: 12px;
+            padding: 10px;
+            background-color: #f5f5f5;
+            border-radius: 4px;
+            font-size: 14px; /* Data field size */
+        }
+        .data-field-item strong {
+            font-weight: bold;
+            display: inline-block;
+            width: 100px;
+            font-size: 14px; /* Data field labels */
+        }
+        .notes-section {
+            margin-top: 15px;
+            padding: 12px;
+            background-color: #f0f8ff;
+            border-left: 4px solid #4682b4;
+            font-size: 14px; /* Notes section */
+        }
+        /* Make all text bold */
+        body, h2, label, strong, div {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h2>FORM SUBMISSION DETAILS</h2>
+    <div class="form-data">
+        <div><label>Domain Name:</label> <strong>{{ domain_name }}</strong></div>
+        <div><label>Domain Link:</label> <strong>{{ domain_link }}</strong></div>
+        <div><label>Input Methods:</label> <strong>{{ input_methods }}</strong></div>
+        <div><label>Location:</label> <strong>{{ location }}</strong></div>
+        <div><label>Language:</label> <strong>{{ language }}</strong></div>
+        <div><label>Frequency:</label> <strong>{{ frequency }}</strong></div>
+        <div><label>Data Volume:</label> <strong>{{ data_volume }}</strong></div>
+        <div><label>Output Format:</label> <strong>{{ output_format }}</strong></div>
+
+        <div><label>Data Fields:</label></div>
+        <div>
+            {% for field in data_fields %}
+                <div class="data-field-item">
+                    <strong>Name:</strong> {{ field.name }} <br>
+                    <strong>Description:</strong> {{ field.desc }} <br>
+                    <strong>Data Type:</strong> {{ field.datatype }} <br>
+                    <strong>Requirement:</strong> {{ field.mandatory }}
+                </div>
+            {% endfor %}
+        </div>
+
+        <div><label>Delivery Format:</label> <strong>{{ delivery_format }}</strong></div>
+        <div><label>Platform of Delivery:</label> <strong>{{ platform_of_delivery }}</strong></div>
+
+        <div class="notes-section">
+            <label>Notes:</label> <strong>{{ notes }}</strong>
+        </div>
+    </div>
+</body>
+</html>
+
+
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head>-->
+<!--    <meta charset="UTF-8" />-->
+<!--    <title>Form Submission PDF</title>-->
+<!--    <style>-->
+<!--        body { font-family: Arial, sans-serif; }-->
+<!--        h2 { text-align: center; }-->
+<!--        .form-data { margin: 20px; }-->
+<!--        .form-data label { font-weight: bold; display: inline-block; width: 150px; }-->
+<!--        .form-data div { margin-bottom: 10px; }-->
+<!--    </style>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h2>Form Submitted Successfully!</h2>-->
+<!--    <div class="form-data">-->
+<!--        <div><label>Domain Name:</label> {{ domain_name }}</div>-->
+<!--        <div><label>Domain Link:</label> {{ domain_link }}</div>-->
+<!--        <div><label>Input Methods:</label> {{ input_methods }}</div>-->
+<!--        <div><label>Location:</label> {{ location }}</div>-->
+<!--        <div><label>Language:</label> {{ language }}</div>-->
+<!--        <div><label>Frequency:</label> {{ frequency }}</div>-->
+<!--        <div><label>Data Volume:</label> {{ data_volume }}</div>-->
+<!--        <div><label>Output Format:</label> {{ output_format }}</div>-->
+<!--        <label>Data Fields:</label>-->
+<!--        <div>-->
+<!--            {% for field in data_fields %}-->
+<!--                <div style="margin-bottom: 10px;">-->
+<!--                    <strong>Name:</strong> {{ field.name }} <br>-->
+<!--                    <strong>Description:</strong> {{ field.desc }} <br>-->
+<!--                    <strong>Data Type:</strong> {{ field.datatype }} <br>-->
+<!--                    <strong>Requirement:</strong> {{ field.mandatory }}-->
+<!--                    <hr>-->
+<!--                </div>-->
+<!--            {% endfor %}-->
+<!--        </div>-->
+
+
+<!--        <div><label>Delivery Format:</label> {{ delivery_format }}</div>-->
+<!--        <div><label>Platform of Delivery:</label> {{ platform_of_delivery }}</div>-->
+
+<!--        <div><label>Notes:</label> {{ notes }}</div>-->
+<!--    </div>-->
+<!--</body>-->
+<!--</html>-->
+

@@ -1,0 +1,275 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+Return Type
+Financial Year
+Tax Period
+Filing Due Date
+Date of Filing
+Status
+GSTR2X
+2023-2024
+September
+-
+18 Oct, 2023
+Filed
+GSTR1
+2023-2024
+September
+11 Oct, 2023
+11 Oct, 2023
+Filed on Time
+GSTR3B
+2023-2024
+August
+20 Sep, 2023
+20 Sep, 2023
+Filed on Time
+GSTR2X
+2023-2024
+August
+-
+13 Sep, 2023
+Filed
+GSTR1
+2023-2024
+August
+11 Sep, 2023
+10 Sep, 2023
+Filed on Time
+GSTR3B
+2023-2024
+July
+20 Aug, 2023
+19 Aug, 2023
+Filed on Time
+GSTR2X
+2023-2024
+July
+-
+17 Aug, 2023
+Filed
+GSTR1
+2023-2024
+July
+11 Aug, 2023
+10 Aug, 2023
+Filed on Time
+GSTR3B
+2023-2024
+June
+20 Jul, 2023
+20 Jul, 2023
+Filed on Time
+GSTR2X
+2023-2024
+June
+-
+20 Jul, 2023
+Filed
+GSTR1
+2023-2024
+June
+11 Jul, 2023
+11 Jul, 2023
+Filed on Time
+ITC04
+2022-2023
+October-March
+-
+25 Apr, 2023
+Filed
+GSTIN
+State
+Latest Filing(s)
+Financial Year
+Tax Period
+27AAACG1395D2ZT
+Maharashtra
+GSTR6
+12 Jun, 2025
+2025-2026
+May
+Date of Registration :
+1 Mar, 2025
+Centre Jurisdiction :
+RANGE-III
+GSTIN Status :
+Active
+State Jurisdiction :
+MULUND-WEST_705
+State :
+Maharashtra
+Taxpayer Type :
+Input Service Distributor (ISD)
+Legal Name of Business :
+GODREJ AND BOYCE MANUFACTURING
+CO LTD
+Trade Name :
+GODREJ & BOYCE MFG. CO. LTD.
+Nature of Business Activities :
+Recipient of Goods or Services
+Return Type
+Financial Year
+Tax Period
+Filing Due Date
+Date of Filing
+Status
+GSTR6
+2025-2026
+May
+-
+12 Jun, 2025
+Filed
+GSTR6
+2025-2026
+April
+-
+13 May, 2025
+Filed
+GSTR6
+2024-2025
+March
+-
+7 Apr, 2025
+Filed
+GSTIN
+State
+Latest Filing(s)
+Financial Year
+Tax Period
+14AAACG1395D1Z1
+Manipur
+GSTR1
+8 Jul, 2025
+2025-2026
+June
+Date of Registration :
+7 Mar, 2019
+Centre Jurisdiction :
+IMPHAL I RANGE
+GSTIN Status :
+Active
+State Jurisdiction :
+Zone-13, Jiribam, Noney &
+Tamenglong Districts
+State :
+Manipur
+Taxpayer Type :
+Regular
+Legal Name of Business :
+GODREJ AND BOYCE MANUFACTURING
+CO LTD
+Trade Name :
+GODREJ AND BOYCE
+MANUFACTURING CO LTD
+Nature of Business Activities :
+Recipient of Goods or Services | Supplier of Services | Works Contract
+Return Type
+Financial Year
+Tax Period
+Filing Due Date
+Date of Filing
+Status
+GSTR1
+2025-2026
+June
+11 Jul, 2025
+8 Jul, 2025
+Filed on Time
+GSTR2X
+2025-2026
+May
+-
+25 Jun, 2025
+Filed
+GSTR3B
+2025-2026
+May
+20 Jun, 2025
+20 Jun, 2025
+Filed on Time
+GSTR1
+2025-2026
+May
+11 Jun, 2025
+9 Jun, 2025
+Filed on Time
+GSTR2X
+2025-2026
+April
+-
+27 May, 2025
+Filed
+GSTR3B
+2025-2026
+April
+20 May, 2025
+20 May, 2025
+Filed on Time
+GSTR1
+2025-2026
+April
+11 May, 2025
+9 May, 2025
+Filed on Time
+GSTR2X
+2024-2025
+March
+-
+25 Apr, 2025
+Filed
+GSTR3B
+2024-2025
+March
+20 Apr, 2025
+19 Apr, 2025
+Filed on Time
+GSTR1
+2024-2025
+March
+11 Apr, 2025
+9 Apr, 2025
+Filed on Time
+GSTR2X
+2024-2025
+February
+-
+25 Mar, 2025
+Filed
+GSTR3B
+2024-2025
+February
+20 Mar, 2025
+19 Mar, 2025
+Filed on Time
+GSTR1
+2024-2025
+February
+11 Mar, 2025
+8 Mar, 2025
+Filed on Time
+GSTR2X
+2024-2025
+January
+-
+25 Feb, 2025
+Filed
+GSTR3B
+2024-2025
+January
+20 Feb, 2025
+20 Feb, 2025
+Filed on Time
+GSTR1
+2024-2025
+January
+11 Feb, 2025
+8 Feb, 2025
+Filed on Time
+Page 152 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

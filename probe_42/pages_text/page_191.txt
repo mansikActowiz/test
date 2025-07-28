@@ -1,0 +1,214 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+Wage Month
+No. of Employees
+Amount (Rs. Crore)
+Payment Due date
+Payment Timeliness
+Sep, 2024
+288
+0.12
+15 Oct, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802410007169
+26
+0.01
+14 Oct, 2024
+Paid on Time
+3802410007167
+262
+0.11
+14 Oct, 2024
+Paid on Time
+Aug, 2024
+291
+0.13
+15 Sep, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802409004657
+266
+0.12
+13 Sep, 2024
+Paid on Time
+3802409004647
+25
+0.01
+13 Sep, 2024
+Paid on Time
+Jul, 2024
+291
+0.12
+15 Aug, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802408006726
+25
+0.01
+13 Aug, 2024
+Paid on Time
+3802408006722
+266
+0.11
+13 Aug, 2024
+Paid on Time
+Jun, 2024
+290
+0.11
+15 Jul, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802407005967
+24
+0.01
+12 Jul, 2024
+Paid on Time
+3802407005731
+266
+0.11
+13 Jul, 2024
+Paid on Time
+May, 2024
+288
+0.12
+15 Jun, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802406005638
+265
+0.11
+12 Jun, 2024
+Paid on Time
+3802406005637
+23
+0.01
+12 Jun, 2024
+Paid on Time
+Apr, 2024
+288
+0.11
+15 May, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802405005703
+23
+0.01
+13 May, 2024
+Paid on Time
+3802405005677
+265
+0.11
+13 May, 2024
+Paid on Time
+Mar, 2024
+287
+0.13
+15 Apr, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802404006751
+21
+0.01
+12 Apr, 2024
+Paid on Time
+3802404006723
+266
+0.12
+12 Apr, 2024
+Paid on Time
+Feb, 2024
+287
+0.11
+15 Mar, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802403006104
+21
+0.01
+12 Mar, 2024
+Paid on Time
+3802403006078
+266
+0.11
+12 Mar, 2024
+Paid on Time
+Jan, 2024
+286
+0.12
+15 Feb, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802402005708
+19
+0.01
+13 Feb, 2024
+Paid on Time
+3802402005701
+267
+0.12
+13 Feb, 2024
+Paid on Time
+Dec, 2023
+288
+0.11
+15 Jan, 2024
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802401006701
+19
+0.01
+15 Jan, 2024
+Paid on Time
+3802401006697
+269
+0.11
+15 Jan, 2024
+Paid on Time
+Page 188 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

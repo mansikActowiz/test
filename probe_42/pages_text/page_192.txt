@@ -1,0 +1,192 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+Wage Month
+No. of Employees
+Amount (Rs. Crore)
+Payment Due date
+Payment Timeliness
+Nov, 2023
+288
+0.11
+15 Dec, 2023
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802312006131
+19
+0.01
+14 Dec, 2023
+Paid on Time
+3802312006118
+269
+0.11
+14 Dec, 2023
+Paid on Time
+Oct, 2023
+287
+0.12
+15 Nov, 2023
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802311005067
+19
+0.01
+10 Nov, 2023
+Paid on Time
+3802311005061
+268
+0.11
+10 Nov, 2023
+Paid on Time
+Sep, 2023
+285
+0.11
+15 Oct, 2023
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802310006043
+18
+0.01
+13 Oct, 2023
+Paid on Time
+3802310006034
+267
+0.10
+13 Oct, 2023
+Paid on Time
+Aug, 2023
+285
+0.11
+15 Sep, 2023
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802309005912
+267
+0.11
+13 Sep, 2023
+Paid on Time
+3802309005909
+18
+0.01
+13 Sep, 2023
+Paid on Time
+Jul, 2023
+286
+0.11
+15 Aug, 2023
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802308006481
+18
+0.01
+13 Aug, 2023
+Paid on Time
+3802308006473
+268
+0.10
+13 Aug, 2023
+Paid on Time
+Jun, 2023
+287
+0.11
+15 Jul, 2023
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3802307004797
+269
+0.10
+13 Jul, 2023
+Paid on Time
+3802307004791
+18
+0.01
+13 Jul, 2023
+Paid on Time
+Establishment ID
+Establishment Name
+City
+Latest Wage
+Month
+Latest Date
+of Credit
+No. of
+Employees
+Amount
+(Rs. Crore)
+THTHA0000026000
+(Payment After Due Date
+ in last 12 Months)
+GODREJ AND BOYCE
+MANUFACTURING CO LTD
+MUMBAI
+May, 2025
+14 Jun, 2025
+14,944
+1.64
+Date of Setup :
+3 Mar, 1932
+Working Status :
+LIVE ESTABLISHMENT
+Principal Business Activities :
+ELEC, MECH OR GEN ENGG PRODUCTS
+Address :
+Exemption Status :
+PIROJSHANAGAR VIKHROLI
+PF :
+EXEMPTED
+MUMBAI - 400079
+Pension :
+UNEXEMPTED
+MAHARASHTRA
+EDLI :
+EXEMPTED
+Wage Month
+No. of Employees
+Amount (Rs. Crore)
+Payment Due date
+Payment Timeliness
+May, 2025
+14,944
+1.64
+15 Jun, 2025
+Paid on Time
+TRRN
+No. of Employees
+Amount (Rs. Crore)
+Date of Credit
+Transaction Timeliness
+3182506012564
+14,944
+1.64
+14 Jun, 2025
+Paid on Time
+Page 189 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

@@ -1,0 +1,174 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+Cash Flow - AOC-4 (Rs. Crore)
+31 Mar, 2022
+31 Mar, 2023
+31 Mar, 2024
+See Annexure for Past Year(s) Cash Flow
+Cash Flows from / ( Used in ) Operating Activities
+706.54
+196.39
+425.29
+Profit Before Tax
+783.65
+713.05
+626.59
+Adjustment for Finance Cost and Depreciation
+-1,067.54
+-786.00
+-690.63
+Adjustments for Current and Non-Current
+Assets
+738.07
+963.98
+140.88
+Adjustments for Current and Non-Current
+Liabilities
+-305.20
+-112.96
+-134.69
+Other Adjustments in Operating Activities
+855.52
+974.46
+367.44
+Net Cash Flows from / ( Used in )
+Operating Activities
+Cash Flows from / ( Used in ) Investing Activities
+774.84
+482.16
+405.33
+Cash Outflow from Purchase of Assets
+19.43
+45.96
+13.11
+Cash Inflow from Sale of Assets
+43.49
+14.23
+20.79
+Income from Assets
+175.84
+-175.05
+23.97
+Other Adjustments in Investing Activities
+-536.08
+-597.02
+-347.46
+Net Cash Flows from / ( Used in )
+Investing Activities
+Cash Flows from / ( Used in ) Financing Activities
+123.99
+113.85
+136.49
+Cash Outflow from Repayment of Capital and
+Borrowings
+-
+-
+-
+Cash Inflow from Raising Capital and
+Borrowings
+480.44
+244.52
+188.15
+Interest and Dividends Paid
+333.43
+25.06
+286.23
+Other Adjustments in Financing Activities
+-271.00
+-333.31
+-38.41
+Net Cash Flows from / ( Used in )
+Financing Activities
+Increase / ( Decrease ) in Cash and Cash Equivalents Before
+Effect of Exchange Rate Changes
+-18.43
+44.13
+48.44
+Adjustments to Cash and Cash Equivalents
+-
+-
+-
+Net Increase / ( Decrease ) in Cash and Cash Equivalents
+-18.43
+44.13
+48.44
+Cash and Cash Equivalents at End of Period
+391.03
+429.78
+478.22
+Ratios - AOC-4
+31 Mar, 2022
+31 Mar, 2023
+31 Mar, 2024
+See Annexure for Past Year(s) Ratios
+Revenue Growth (%)
+23.5
+18.1
+10.7
+Gross Profit Margin (%)
+44.9
+45.6
+48.1
+EBITDA Margin (%)
+6.4
+6.2
+7.0
+Net Margin (%)
+2.5
+0.9
+3.6
+Return on Equity (%)
+3.0
+1.2
+3.9
+Return on Capital Employed (%)
+3.0
+3.1
+4.3
+Debt Ratio
+0.2
+0.1
+0.1
+Debt / Equity
+0.3
+0.3
+0.2
+Interest Coverage Ratio
+2.2
+1.9
+2.9
+Current Ratio
+1.2
+1.2
+1.1
+Quick Ratio
+0.7
+0.8
+0.7
+Inventory / Sales (Days)
+82
+72
+68
+Debtors / Sales (Days)
+77
+71
+70
+Payables / Sales (Days)
+69
+74
+76
+Cash Conversion Cycle (Days)
+90
+69
+62
+Sales / Net Fixed Assets
+3.6
+3.8
+3.8
+Page 8 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

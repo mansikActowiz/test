@@ -1,0 +1,293 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+JAMSHYD NAOROJI GODREJ ( DIN : 00076250 ) - Company:
+GODREJ AGROVET LIMITED
+(L15410MH1991PLC135359)
+192.33
+0.00
+25 Nov, 1991
+Active
+Active Compliant
+24 Aug, 1992
+24 Jan, 2024
+BSE LIMITED
+(L67120MH2005PLC155188)
+81.34
+1.70
+8 Aug, 2005
+Active
+Active Compliant
+26 Sep, 2006
+16 Jun, 2008
+INDIAN INSTITUTE FOR HUMAN
+SETTLEMENTS
+(U74990KA2008NPL078948)
+1.40
+0.00
+23 Dec, 2008
+Active
+Active Compliant
+23 Dec, 2008
+17 Oct, 2014
+ANTRIX CORPORATION LIMITED
+(U85110KA1992GOI013570)
+6.80
+0.00
+28 Sep, 1992
+Active
+Active Compliant
+27 Nov, 1992
+11 May, 2013
+HERSHEY INDIA PRIVATE LIMITED
+(U24240MH1997PTC105714)
+833.10
+0.00
+7 Feb, 1997
+Active
+Active Compliant
+12 Jul, 2002
+15 May, 2007
+HALDIA PETROCHEMICALS LTD
+(U23209WB1985SGC039487)
+1,959.02
+0.00
+16 Sep, 1985
+Amalgamated
+2 Nov, 2004
+1 Mar, 2015
+GODREJ PROPERTIES LIMITED
+(L74120MH1985PLC035308)
+150.60
+4,345.65
+8 Feb, 1985
+Active
+Active Compliant
+25 Apr, 1990
+24 Jan, 2024
+GODREJ INDUSTRIES LIMITED
+(L24241MH1988PLC097781)
+33.68
+454.52
+7 Mar, 1988
+Active
+Active Compliant
+7 Mar, 1988
+24 Jan, 2024
+GODREJ CONSUMER PRODUCTS LIMITED
+(L24246MH2000PLC129806)
+102.30
+0.00
+29 Nov, 2000
+Active
+Active Compliant
+1 Mar, 2001
+24 Jan, 2024
+EUREKA OUTSOURCING SOLUTIONS PRIVATE
+LIMITED
+(U74140MH2002PTC136070)
+43.00
+12.37
+30 May, 2002
+Active
+Active Compliant
+18 Dec, 2003
+27 Dec, 2007
+BAJAJ AUTO LIMITED.
+(L65993PN2007PLC130076)
+279.26
+0.00
+30 Apr, 2007
+Active
+Active Compliant
+30 Jan, 2008
+10 Apr, 2017
+GREAT LAKES INSTITUTE OF MANAGEMENT
+(U80301TN2004NPL052529)
+0.05
+0.00
+13 Feb, 2004
+Active
+Active Compliant
+1 Apr, 2005
+3 May, 2011
+WWF INDIA FOUNDATION
+(U80211DL2008NPL185825)
+0.00
+0.00
+15 Dec, 2008
+Under Liquidation
+13 Aug, 2010
+31 Dec, 2014
+WADALA COMMODITIES LIMITED
+(L15142MP1984PLC002382)
+6.66
+0.00
+9 Mar, 1984
+Amalgamated
+28 Nov, 1991
+10 Jun, 2008
+*OOC = Obligation of Contribution
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *OOC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+JAMSHYD NAOROJI GODREJ ( DIN : 00076250 ) - LLP:
+GODREJ & BOYCE ENTERPRISE LLP
+(AAA-1485)
+0.01
+0.00
+2 Jun, 2010
+Strike Off
+-
+-
+RKN ENTERPRISE LLP
+(AAA-1480)
+0.01
+0.00
+1 Jun, 2010
+Strike Off
+-
+-
+JNG ENTERPRISE LLP
+(AAA-1481)
+0.01
+0.00
+1 Jun, 2010
+Active
+-
+-
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+ANIL GYAN VERMA ( DIN : 02366334 ) - Company:
+GODREJ INTRALOGISTICS PRIVATE LIMITED
+(U06302KA2005PTC036923)
+16.41
+16.00
+8 Aug, 2005
+Active
+Active Compliant
+23 Sep, 2024
+-
+GODREJ ENTERPRISES PRIVATE LIMITED
+(U28999MH2022PTC393098)
+0.10
+0.00
+4 Nov, 2022
+Active
+24 Nov, 2022
+-
+GODREJ INFOTECH LIMITED
+(U32100MH1997PLC106135)
+0.10
+0.00
+25 Feb, 1997
+Active
+Active Compliant
+26 Feb, 2014
+-
+GODREJ KOERBER SUPPLY CHAIN LIMITED
+(U28990MH1996PLC104088)
+1.53
+0.00
+22 Nov, 1996
+Active
+Active Compliant
+1 Mar, 2017
+-
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+KEKI MANCHERSHA ELAVIA ( DIN : 00003940 ) - Company:
+NAPEROL INVESTMENTS LIMITED
+(L66309MH1954PLC009254)
+5.75
+12.72
+16 Mar, 1954
+Active
+Active Compliant
+31 Jul, 2024
+-
+THE BOMBAY BURMAH TRADING
+CORPORATION LIMITED
+(L99999MH1863PLC000002)
+13.95
+304.00
+4 Sep, 1863
+Active
+Active Compliant
+8 Aug, 2024
+-
+ZEST PHARMACEUTICALS PVT LTD
+(U24239MH1992PTC069533)
+0.01
+0.00
+13 Nov, 1992
+Strike Off
+18 Apr, 2006
+-
+PHOENIX ARC PRIVATE LIMITED
+(U67190MH2007PTC168303)
+168.00
+800.00
+2 Mar, 2007
+Active
+Active Compliant
+26 Feb, 2015
+-
+Page 28 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

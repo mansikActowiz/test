@@ -1,0 +1,285 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+Satisfied Charges Sequence
+Sl.
+No.
+Charge ID
+Status
+Date
+Filing
+Date
+Holder Name
+Amount (Rs. Crore) Property Type
+No. of
+Holders
+Satisfaction
+5 Nov, 2024
+7 Nov, 2024
+KOTAK MAHINDRA
+BANK LIMITED
+250.00
+-
+-
+1.
+100602738
+Creation
+28 Jul, 2022
+12 Aug, 2022
+KOTAK MAHINDRA
+BANK LIMITED
+250.00
+Movable property
+(not being pledge)
+1
+Satisfaction
+4 Jun, 2024
+4 Jun, 2024
+UTI BANK
+( now AXIS BANK
+LIMITED )
+50.00
+-
+-
+2.
+90236366
+Modification
+22 Jul, 2005
+-
+UTI BANK
+( now AXIS BANK
+LIMITED )
+50.00
+-
+-
+Creation
+9 Nov, 2004
+-
+-
+-
+-
+-
+Satisfaction
+16 Jun, 2023
+12 Jul, 2023
+HDFC BANK LIMITED
+300.00
+-
+-
+3.
+100481971
+Creation
+2 Sep, 2021
+-
+HDFC BANK LIMITED
+300.00
+-
+-
+Satisfaction
+31 May, 2021
+7 Jun, 2021
+VISTRA ITCL INDIA
+LIMITED
+250.00
+-
+-
+4.
+100032703
+Modification
+14 May, 2019
+10 Dec, 2019
+VISTRA ITCL INDIA
+LIMITED
+250.00
+Immovable property
+or any interest there
+in
+1
+Creation
+25 May, 2016
+17 Jun, 2016
+IL&FS TRUST COMPANY
+LIMITED
+( now VISTRA ITCL INDIA
+LIMITED )
+500.00
+Immovable property
+or any interest there
+in
+1
+Satisfaction
+27 Feb, 2020
+16 Mar, 2020
+CENTRAL BANK OF
+INDIA
+94.00
+-
+-
+5.
+80026323
+Creation
+14 Oct, 2005
+-
+-
+-
+-
+-
+Satisfaction
+25 Mar, 2019
+10 Apr, 2019
+ZOROASTRIAN
+COOPERATIVE BANK
+LIMITED
+12.00
+-
+-
+6.
+10506229
+Creation
+20 Mar, 2014
+-
+ZOROASTRIAN
+COOPERATIVE BANK
+LIMITED
+12.00
+-
+-
+Satisfaction
+31 Mar, 2018
+18 Apr, 2018
+INDIAN BANK
+8.00
+-
+-
+7.
+90290482
+Modification
+4 Oct, 2014
+-
+INDIAN BANK
+8.00
+-
+-
+Creation
+13 Sep, 2004
+-
+-
+-
+-
+-
+Satisfaction
+25 Jan, 2018
+4 Apr, 2018
+ICICI BANK LIMITED
+3.00
+-
+-
+8.
+10531846
+Creation
+17 Oct, 2014
+-
+-
+-
+-
+-
+Satisfaction
+31 Mar, 2017
+29 Apr, 2017
+HOUSING
+DEVELOPMENT
+FINANCE
+CORPORATION LIMITED
+8.50
+-
+-
+9.
+10363787
+Creation
+27 Jun, 2012
+10 Jul, 2012
+HOUSING
+DEVELOPMENT
+FINANCE
+CORPORATION LIMITED
+8.50
+Immovable property
+1
+Satisfaction
+4 Mar, 2014
+29 Mar, 2014
+ZOROASTRIAN
+COOPERATIVE BANK
+LIMITED
+8.00
+-
+-
+10.
+10277642
+Creation
+17 Mar, 2011
+9 Apr, 2011
+ZOROASTRIAN
+COOPERATIVE BANK
+LIMITED
+8.00
+Movable property
+(not being pledge)
+1
+Satisfaction
+30 Jul, 2013
+21 Aug, 2013
+CENTRAL BANK OF
+INDIA
+80.00
+-
+-
+11.
+10117283
+Creation
+24 Jul, 2008
+20 Aug, 2008
+CENTRAL BANK OF
+INDIA
+80.00
+Movable property
+(not being pledge)
+1
+Satisfaction
+3 Jun, 2013
+28 Jun, 2013
+CORPORATION BANK
+( now UNION BANK OF
+INDIA )
+50.00
+-
+-
+12.
+10258462
+Creation
+6 Dec, 2010
+23 Dec, 2010
+CORPORATION BANK
+( now UNION BANK OF
+INDIA )
+50.00
+Immovable property
+1
+Satisfaction
+6 Jun, 2012
+22 Jun, 2012
+HOUSING
+DEVELOPMENT
+FINANCE
+CORPORATION LIMITED
+10.00
+-
+-
+13.
+10030715
+Page 38 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

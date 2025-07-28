@@ -1,0 +1,113 @@
+{% extends 'base.html' %}
+
+{% block title %}Form Submission Result{% endblock title %}
+
+{% block body %}
+
+<style>
+    body {
+        background-color: #f0f2f5;
+        font-family: Arial, sans-serif;
+    }
+
+    .result-container {
+        background-color: #fff;
+        max-width: 700px;
+        margin: 50px auto;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 30px;
+        color: #333;
+    }
+
+    .form-data {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        gap: 10px 20px;
+        font-size: 16px;
+    }
+
+    .form-data label {
+        font-weight: bold;
+        color: #555;
+    }
+
+    .form-data div {
+        color: #333;
+    }
+
+    .back-link {
+        display: block;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .back-link a {
+        text-decoration: none;
+        color: white;
+        background-color: #4CAF50;
+        padding: 10px 20px;
+        border-radius: 5px;
+    }
+
+    .back-link a:hover {
+        background-color: #45a049;
+    }
+</style>
+
+<div class="result-container">
+    <h2>Form Submitted Successfully!</h2>
+    <div class="form-data">
+        <label>Domain Name:</label><div>{{ domain_name }}</div>
+        <label>Domain Link:</label><div>{{ domain_link }}</div>
+        <label>Input Methods:</label><div>{{ input_methods }}</div>
+        <label>Location:</label><div>{{ location }}</div>
+        <label>Language:</label><div>{{ language }}</div>
+        <label>Frequency:</label><div>{{ frequency }}</div>
+        <label>Data Volume:</label><div>{{ data_volume }}</div>
+        <label>Output Format:</label><div>{{ output_format }}</div>
+
+
+<!--        <label>Data Fields:</label>-->
+<!--        <div>{{ data_fields }}</div>-->
+
+        <label>Data Fields:</label>
+        <div>
+            {% for field in data_fields %}
+                <div style="margin-bottom: 10px;">
+                    <strong>Name:</strong> {{ field.name }} <br>
+                    <strong>Description:</strong> {{ field.desc }} <br>
+                    <strong>Data Type:</strong> {{ field.datatype }} <br>
+                    <strong>Requirement:</strong> {{ field.mandatory }}
+                    <hr>
+                </div>
+            {% endfor %}
+        </div>
+
+
+
+        <label>Delivery Format:</label><div>{{ delivery_format }}</div>
+        <label>Platform of Delivery:</label><div>{{ platform_of_delivery }}</div>
+<!--        <label>Platform Link:</label><div>{{ platform_link }}</div>-->
+        <label>Notes:</label><div>{{ notes }}</div>
+    </div>
+    <div class="back-link">
+        <a href="/form">Go Back to Form</a>
+    </div>
+
+    <div class="back-link" style="margin-top:20px; text-align:center;">
+    <a href="{% url 'generate_pdf' %}" style="background-color:#007BFF; padding:10px 20px; color:white; border-radius:5px; text-decoration:none;">
+        Download PDF
+    </a>
+</div>
+
+
+
+</div>
+
+{% endblock body %}

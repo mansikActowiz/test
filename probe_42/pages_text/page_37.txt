@@ -1,0 +1,241 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+NADIR BURJOR GODREJ ( DIN : 00066195 ) - Company:
+TRICOM INFOTECH SOLUTIONS LIMITED
+(U74999MH2003PLC139413)
+21.92
+32.96
+28 Feb, 2003
+Active
+Active Compliant
+28 Feb, 2003
+30 Jun, 2008
+TATA TELESERVICES (MAHARASHTRA)
+LIMITED
+(L64200MH1995PLC086354)
+1,954.93
+4,247.00
+13 Mar, 1995
+Active
+Active Compliant
+12 Mar, 2008
+23 Sep, 2015
+*OOC = Obligation of Contribution
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *OOC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+NADIR BURJOR GODREJ ( DIN : 00066195 ) - LLP:
+INNOVIA MULTIVENTURES LLP
+(ACK-0731)
+0.21
+0.00
+23 Oct, 2024
+Active
+-
+-
+ANBG ENTERPRISE LLP
+(AAW-2082)
+0.02
+0.00
+8 Mar, 2021
+Active
+-
+-
+ABG VENTURE LLP
+(AAA-1484)
+0.01
+0.00
+2 Jun, 2010
+Converted to CIN
+U74999TN2021PTC140569
+-
+-
+NBG ENTERPRISE LLP
+(AAA-1483)
+0.01
+0.00
+2 Jun, 2010
+Active
+-
+-
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+VIJAY MOHAN CRISHNA ( DIN : 00066267 ) - Company:
+LAWKIM LIMITED
+(U74999MH1960PLC011759)
+0.60
+0.00
+16 Jul, 1960
+Amalgamated
+16 Aug, 1997
+-
+GODREJ AGROVET LIMITED
+(L15410MH1991PLC135359)
+192.33
+0.00
+25 Nov, 1991
+Active
+Active Compliant
+24 Aug, 1992
+8 Nov, 2021
+NAOROJI GODREJ CENTRE FOR PLANT
+RESEARCH
+(U91110MH1992NPL068102)
+2.23
+0.00
+10 Aug, 1992
+Active
+Active Compliant
+10 Aug, 1992
+31 May, 2023
+HICARE SERVICES PRIVATE LIMITED
+(U29294MH1993PTC072222)
+85.56
+0.00
+31 May, 1993
+Active
+Active Compliant
+31 May, 1993
+18 Jun, 2009
+PRECISION WIRES INDIA LIMITED
+(L31300MH1989PLC054356)
+17.87
+620.03
+23 Nov, 1989
+Active
+Active Compliant
+25 Sep, 1992
+26 Jun, 2020
+GODREJ INDUSTRIES LIMITED
+(L24241MH1988PLC097781)
+33.68
+454.52
+7 Mar, 1988
+Active
+Active Compliant
+3 Jan, 1995
+8 Nov, 2021
+EUREKA OUTSOURCING SOLUTIONS PRIVATE
+LIMITED
+(U74140MH2002PTC136070)
+43.00
+12.37
+30 May, 2002
+Active
+Active Compliant
+30 May, 2002
+28 Jul, 2008
+STATOMAT SPECIAL MACHINES (INDIA)
+PRIVATE LIMITED
+(U29299MH1992PTC064675)
+0.23
+3.86
+1 Jan, 1992
+Active
+Active Compliant
+1 Jan, 1992
+30 Apr, 2009
+*OOC = Obligation of Contribution
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *OOC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+VIJAY MOHAN CRISHNA ( DIN : 00066267 ) - LLP:
+SVC ENTERPRISE LLP
+(AAA-1482)
+0.01
+0.00
+2 Jun, 2010
+Active
+2 Jun, 2010
+6 Jun, 2023
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+PHIROZE DINSHAW LAM ( DIN : 00066218 ) - Company:
+MERCURY MANUFACTURING COMPANY
+LIMITED
+(U28112TN1992PLC023798)
+3.75
+0.00
+11 Nov, 1992
+Amalgamated
+1 Apr, 1997
+-
+GODREJ KOERBER SUPPLY CHAIN LIMITED
+(U28990MH1996PLC104088)
+1.53
+0.00
+22 Nov, 1996
+Active
+Active Compliant
+22 Nov, 1996
+1 Mar, 2017
+Page 34 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

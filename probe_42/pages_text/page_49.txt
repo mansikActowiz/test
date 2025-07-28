@@ -1,0 +1,285 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+Comparative Metrics
+Industry: Consumer Durables | Segment(s): Electronic Appliances Manufacturer
+Metrics
+FY 2021
+FY 2022
+FY 2023
+FY 2024
+Actual Value
+Median
+Actual Value
+Median
+Actual Value
+Median
+Actual Value
+Median
+# of Peers in Sample
+28
+30
+30
+30
+Revenue (Rs. Crore)
+9,989.22
+4,651.90
+4,239.91
+12,344.49
+4,776.43
+14,570.42
+5,781.44
+16,181.61
+Revenue Growth (%)
+-11.3
+-0.5
+23.6
+30.6
+18.0
+18.0
+11.1
+10.5
+EBITDA Margin (%)
+7.3
+8.6
+6.6
+7.8
+6.4
+7.5
+7.4
+8.1
+Net Margin (%)
+1.0
+4.3
+3.0
+4.5
+1.4
+3.8
+2.5
+4.2
+Return on Equity (%)
+1.0
+11.2
+3.4
+16.2
+1.8
+12.7
+2.7
+14.3
+Debt / Equity
+0.3
+0.1
+0.3
+0.1
+0.2
+0.0
+0.2
+0.0
+Inventory / Sales (Days)
+92
+61
+82
+53
+72
+47
+68
+42
+Debtors / Sales (Days)
+84
+58
+78
+54
+71
+51
+71
+54
+Payables / Sales (Days)
+82
+81
+70
+68
+75
+63
+77
+66
+Cash Conversion Cycle (Days)
+94
+26
+90
+33
+68
+37
+61
+31
+Sales / Net Fixed Assets
+3.1
+6.0
+3.6
+7.9
+3.8
+8.7
+4.1
+8.6
+5 Closest Peers by Revenue
+Legal Name
+City
+Revenue (Rs. Crore)
+NEW DELHI
+HAVELLS INDIA LIMITED
+18,549.90
+PANCHMAHAL
+POLYCAB INDIA LIMITED
+18,050.85
+MUMBAI
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+16,181.61
+KOLKATA
+EXIDE INDUSTRIES LIMITED
+16,029.19
+NEW DELHI
+SCHNEIDER ELECTRIC INDIA PRIVATE LIMITED
+14,707.20
+Comparative Metrics
+Industry: Manufacturing | Segment(s): Security Products
+Metrics
+FY 2021
+FY 2022
+FY 2023
+FY 2024
+Actual Value
+Median
+Actual Value
+Median
+Actual Value
+Median
+Actual Value
+Median
+# of Peers in Sample
+29
+30
+30
+30
+Revenue (Rs. Crore)
+9,989.22
+158.21
+218.10
+12,344.49
+249.40
+14,570.42
+272.22
+16,181.61
+Revenue Growth (%)
+-11.3
+0.3
+23.6
+31.6
+18.0
+19.8
+11.1
+17.6
+EBITDA Margin (%)
+7.3
+7.8
+6.6
+10.5
+6.4
+10.3
+7.4
+12.2
+Net Margin (%)
+1.0
+5.9
+3.0
+7.0
+1.4
+7.4
+2.5
+8.5
+Return on Equity (%)
+1.0
+16.0
+3.4
+18.8
+1.8
+19.7
+2.7
+22.1
+Debt / Equity
+0.3
+0.4
+0.3
+0.3
+0.2
+0.2
+0.2
+0.2
+Inventory / Sales (Days)
+92
+53
+82
+57
+72
+68
+68
+54
+Debtors / Sales (Days)
+84
+84
+78
+63
+71
+58
+71
+61
+Payables / Sales (Days)
+82
+49
+70
+42
+75
+43
+77
+33
+Cash Conversion Cycle (Days)
+94
+64
+90
+75
+68
+66
+61
+70
+Sales / Net Fixed Assets
+3.1
+10.1
+3.6
+10.1
+3.8
+8.9
+4.1
+8.5
+5 Closest Peers by Revenue
+Legal Name
+City
+Revenue (Rs. Crore)
+MUMBAI
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+16,181.61
+BENGALURU
+3M INDIA LIMITED
+3,926.76
+NEW DELHI
+HONEYWELL INTERNATIONAL (INDIA) PRIVATE LIMITED
+1,366.19
+BENGALURU
+TOKAI RIKA MINDA INDIA PRIVATE LIMITED
+1,063.83
+THANE
+GUNNEBO INDIA PRIVATE LIMITED
+666.32
+Page 46 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

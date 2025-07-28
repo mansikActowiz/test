@@ -1,0 +1,108 @@
+{
+  "GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED": {
+    "FY Ending On 31 Mar, 2024": {
+      "Related Corporates": {
+        "Holding Corporates": {
+          "This corporate does not have any Holding Corporates for FY Ending On 31 Mar, 2024 as per our records.": null
+        },
+        "Subsidiary Corporates": {
+          "Subsidiary Corporates - Company": {
+            "GODREJ INFOTECH LIMITED": {
+              "SH (%)": "52.06",
+              "City": "Mumbai",
+              "PUC (Rs. Cr.)": "0.10",
+              "SOC (Rs. Cr.)": "0.00",
+              "Date of Incorp.": "25 Feb, 1997",
+              "Status": "Active Compliant"
+            },
+            "GODREJ UEP PRIVATE LIMITED": {
+              "SH (%)": "90.25",
+              "City": "Mumbai",
+              "PUC (Rs. Cr.)": "0.10",
+              "SOC (Rs. Cr.)": "0.00",
+              "Date of Incorp.": "5 Oct, 2017",
+              "Status": "Active Compliant"
+            }
+          },
+          "Subsidiary Corporates - Others": {
+            "GODREJ (SINGAPORE) PTE. LTD.": {
+              "Shareholding (%)": "100.00",
+              "Country": "-",
+              "Remarks": "A foreign entity"
+            },
+            "GODREJ (VIETNAM) CO. LTD.": {
+              "Shareholding (%)": "100.00",
+              "Country": "Vietnam",
+              "Remarks": "A foreign entity"
+            },
+            "GODREJ AMERICAS INC": {
+              "Shareholding (%)": "100.00",
+              "Country": "-",
+              "Remarks": "A foreign entity"
+            },
+            "GODREJ INFOTECH (SINGAPORE) PTE LTD.": {
+              "Shareholding (%)": "52.06",
+              "Country": "Singapore",
+              "Remarks": "A foreign entity"
+            },
+            "GODREJ INFOTECH AMERICAS INC.": {
+              "Shareholding (%)": "52.06",
+              "Country": "United States",
+              "Remarks": "A foreign entity"
+            },
+            "GODREJ UEP (SINGAPORE) PTE LTD.": {
+              "Shareholding (%)": "79.99",
+              "Country": "Singapore",
+              "Remarks": "A foreign entity"
+            },
+            "JT DRAGON PTE. LTD.": {
+              "Shareholding (%)": "100.00",
+              "Country": "Singapore",
+              "Remarks": "A foreign entity"
+            },
+            "LVD GODREJ INFOTECH NV": {
+              "Shareholding (%)": "46.85",
+              "Country": "Belgium",
+              "Remarks": "A foreign entity"
+            },
+            "SHEETAK INC": {
+              "Shareholding (%)": "56.51",
+              "Country": "-",
+              "Remarks": "A foreign entity"
+            },
+            "URBAN ELECTRIC POWER INC": {
+              "Shareholding (%)": "51.25",
+              "Country": "-",
+              "Remarks": "A foreign entity"
+            },
+            "VEROMATIC INTERNATIONAL BV": {
+              "Shareholding (%)": "99.96",
+              "Country": "-",
+              "Remarks": "A foreign entity"
+            }
+          }
+        },
+        "Associate Corporates": {
+          "Associate Corporates - LLP": {
+            "FUTURE FACTORY LLP": {
+              "SH (%)": "20.00",
+              "City": "Mumbai",
+              "OOC (Rs. Cr.)": "1.82",
+              "SOC (Rs. Cr.)": "0.00",
+              "Date of Incorp.": "23 Feb, 2010",
+              "Status": "Active"
+            }
+          },
+          "Associate Corporates - Others": {
+            "GODREJ & KHIMJI(MIDDLE EAST) LLC": {
+              "Shareholding (%)": "49.00",
+              "Country": "-",
+              "Remarks": "A foreign entity"
+            }
+          }
+        },
+        "Joint Ventures": null
+      }
+    }
+  }
+}

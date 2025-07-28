@@ -1,0 +1,299 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+Return Type
+Financial Year
+Tax Period
+Filing Due Date
+Date of Filing
+Status
+GSTR2X
+2023-2024
+November
+-
+16 Dec, 2023
+Filed
+GSTR1
+2023-2024
+November
+11 Dec, 2023
+9 Dec, 2023
+Filed on Time
+GSTR3B
+2023-2024
+October
+20 Nov, 2023
+20 Nov, 2023
+Filed on Time
+GSTR2X
+2023-2024
+October
+-
+17 Nov, 2023
+Filed
+GSTR1
+2023-2024
+October
+11 Nov, 2023
+9 Nov, 2023
+Filed on Time
+ITC04
+2023-2024
+April-September
+-
+25 Oct, 2023
+Filed
+GSTR3B
+2023-2024
+September
+20 Oct, 2023
+20 Oct, 2023
+Filed on Time
+GSTR2X
+2023-2024
+September
+-
+16 Oct, 2023
+Filed
+GSTR1
+2023-2024
+September
+11 Oct, 2023
+10 Oct, 2023
+Filed on Time
+GSTR3B
+2023-2024
+August
+20 Sep, 2023
+18 Sep, 2023
+Filed on Time
+GSTR2X
+2023-2024
+August
+-
+16 Sep, 2023
+Filed
+GSTR1
+2023-2024
+August
+11 Sep, 2023
+9 Sep, 2023
+Filed on Time
+GSTR3B
+2023-2024
+July
+20 Aug, 2023
+19 Aug, 2023
+Filed on Time
+GSTR2X
+2023-2024
+July
+-
+18 Aug, 2023
+Filed
+GSTR1
+2023-2024
+July
+11 Aug, 2023
+9 Aug, 2023
+Filed on Time
+GSTIN
+State
+Latest Filing(s)
+Financial Year
+Tax Period
+32AAACG1395D1Z3
+Kerala
+GSTR1
+8 Jul, 2025
+2025-2026
+June
+Date of Registration :
+1 Jul, 2017
+Centre Jurisdiction :
+KAKKANAD RANGE-2
+GSTIN Status :
+Active
+State Jurisdiction :
+Taxpayer Services  Circle,
+Thrikkakkara
+State :
+Kerala
+Taxpayer Type :
+Regular
+Legal Name of Business :
+GODREJ AND BOYCE MANUFACTURING
+CO LTD
+Trade Name :
+GODREJ & BOYCE MFG CO. LTD
+Nature of Business Activities :
+Input Service Distributor (ISD) | Leasing Business | Office / Sale Office | Recipient of Goods or Services | Retail
+Business | Warehouse / Depot | Wholesale Business | Works Contract | Others
+Return Type
+Financial Year
+Tax Period
+Filing Due Date
+Date of Filing
+Status
+GSTR1
+2025-2026
+June
+11 Jul, 2025
+8 Jul, 2025
+Filed on Time
+GSTR3B
+2025-2026
+May
+20 Jun, 2025
+20 Jun, 2025
+Filed on Time
+GSTR2X
+2025-2026
+May
+-
+20 Jun, 2025
+Filed
+GSTR1
+2025-2026
+May
+11 Jun, 2025
+7 Jun, 2025
+Filed on Time
+GSTR3B
+2025-2026
+April
+20 May, 2025
+20 May, 2025
+Filed on Time
+GSTR2X
+2025-2026
+April
+-
+14 May, 2025
+Filed
+GSTR1
+2025-2026
+April
+11 May, 2025
+8 May, 2025
+Filed on Time
+GSTR3B
+2024-2025
+March
+20 Apr, 2025
+18 Apr, 2025
+Filed on Time
+GSTR2X
+2024-2025
+March
+-
+17 Apr, 2025
+Filed
+GSTR1
+2024-2025
+March
+11 Apr, 2025
+8 Apr, 2025
+Filed on Time
+GSTR3B
+2024-2025
+February
+20 Mar, 2025
+20 Mar, 2025
+Filed on Time
+GSTR2X
+2024-2025
+February
+-
+14 Mar, 2025
+Filed
+GSTR1
+2024-2025
+February
+11 Mar, 2025
+7 Mar, 2025
+Filed on Time
+GSTR3B
+2024-2025
+January
+20 Feb, 2025
+20 Feb, 2025
+Filed on Time
+GSTR2X
+2024-2025
+January
+-
+13 Feb, 2025
+Filed
+GSTR1
+2024-2025
+January
+11 Feb, 2025
+8 Feb, 2025
+Filed on Time
+GSTR3B
+2024-2025
+December
+22 Jan, 2025
+21 Jan, 2025
+Filed on Time
+GSTR2X
+2024-2025
+December
+-
+15 Jan, 2025
+Filed
+GSTR1
+2024-2025
+December
+13 Jan, 2025
+8 Jan, 2025
+Filed on Time
+GSTR3B
+2024-2025
+November
+20 Dec, 2024
+20 Dec, 2024
+Filed on Time
+GSTR2X
+2024-2025
+November
+-
+14 Dec, 2024
+Filed
+GSTR1
+2024-2025
+November
+11 Dec, 2024
+9 Dec, 2024
+Filed on Time
+GSTR3B
+2024-2025
+October
+20 Nov, 2024
+19 Nov, 2024
+Filed on Time
+GSTR2X
+2024-2025
+October
+-
+15 Nov, 2024
+Filed
+GSTR1
+2024-2025
+October
+11 Nov, 2024
+9 Nov, 2024
+Filed on Time
+GSTR3B
+2024-2025
+September
+20 Oct, 2024
+19 Oct, 2024
+Filed on Time
+Page 147 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

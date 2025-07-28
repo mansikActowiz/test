@@ -1,0 +1,313 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+*OOC = Obligation of Contribution
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *OOC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+GAURI ATUL KIRLOSKAR ( DIN : 03366274 ) - LLP:
+ALOTOXL VENTURES LLP
+(ACB-0878)
+0.01
+0.00
+10 May, 2023
+Active
+-
+-
+CEPHALOPOD TEKNIK-V LLP
+(ACA-1453)
+0.01
+0.00
+27 Feb, 2023
+Active
+-
+-
+CEPHALOPOD TEKNIK-IV LLP
+(ABC-4907)
+0.01
+0.00
+21 Sep, 2022
+Active
+-
+-
+CEPHALOPOD TEKNIK-III LLP
+(ABC-1424)
+0.01
+0.00
+19 Aug, 2022
+Active
+-
+-
+CEPHALOPOD TEKNIK-II LLP
+(ABA-0493)
+0.01
+0.00
+29 Dec, 2021
+Active
+-
+-
+SNOW LEOPARD GLOBAL TECHNOLOGY- III
+LLP
+(AAV-3009)
+0.01
+0.00
+31 Dec, 2020
+Active
+-
+-
+CEPHALOPOD TEKNIK LLP
+(AAU-7165)
+0.01
+0.00
+17 Nov, 2020
+Active
+-
+-
+GUMTREE CAPITAL ADVISORS LLP
+(AAQ-0518)
+0.01
+0.00
+24 Jul, 2019
+Active
+-
+-
+KC VENTURES LLP
+(AAM-4766)
+0.01
+0.00
+24 Apr, 2018
+Active
+-
+-
+SNOW LEOPARD MOMENTUM-II LLP
+(AAI-2268)
+0.01
+0.00
+10 Jan, 2017
+Active
+-
+-
+SNOW LEOPARD GLOBAL TECHNOLOGY LLP
+(AAF-5274)
+0.01
+0.00
+20 Jan, 2016
+Active
+-
+-
+SNOW LEOPARD MOMENTUM LLP
+(AAC-0951)
+0.02
+0.00
+17 Feb, 2014
+Active
+-
+-
+SNOW LEOPARD TECHNOLOGY VENTURES
+LLP
+(AAB-3612)
+1.27
+0.00
+15 Feb, 2013
+Active
+-
+-
+SNOW LEOPARD LEVER BOOST LLP
+(AAH-6844)
+0.01
+0.00
+25 Oct, 2016
+Active
+25 Oct, 2016
+4 Jul, 2020
+SNOW LEOPARD INFRASTRUCTURE-1 LLP
+(AAH-6853)
+0.01
+0.00
+25 Oct, 2016
+Active
+25 Oct, 2016
+24 Mar, 2021
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+ADI BARJORJI GODREJ ( DIN : 00065964 ) - Company:
+GIL VIKHROLI REAL ESTATE LIMITED
+(U70102MH2015PLC266732)
+152.00
+0.00
+20 Jul, 2015
+Amalgamated
+20 Jul, 2015
+-
+GODREJ HOUSEHOLD PRODUCTS LIMITED
+(U24211MH1987PLC043137)
+10.22
+1.34
+10 Apr, 1987
+Amalgamated
+8 Aug, 1994
+-
+SARALEE HOUSEHOLD & BODYCARE INDIA
+PRIVA TE LIMITED
+(U18101MH1977PTC181783)
+8.40
+0.00
+23 Mar, 1977
+Amalgamated
+2 Jul, 2007
+-
+CSEP RESEARCH FOUNDATION
+(U74999DL2013NPL248687)
+0.01
+0.00
+21 Feb, 2013
+Active
+Active Compliant
+22 Sep, 2020
+-
+GODREJ INVESTMENTS PRIVATE LIMITED
+(U65990MH1975PTC018480)
+3.39
+0.00
+8 Aug, 1975
+Amalgamated
+8 Jun, 1984
+-
+GODREJ HYGIENE PRODUCTS LIMITED
+(U51909MH2007PLC168675)
+2.60
+0.00
+13 Mar, 2007
+Amalgamated
+13 Mar, 2007
+-
+SWADESHI DETERGENTS LIMITED
+(U24243MH1974PLC017488)
+0.51
+0.00
+23 May, 1974
+Amalgamated
+31 Dec, 1979
+-
+GODREJ AGROVET LIMITED
+(L15410MH1991PLC135359)
+192.33
+0.00
+25 Nov, 1991
+Active
+Active Compliant
+25 Nov, 1991
+5 Nov, 2018
+SWADDLE PROJECTS PRIVATE LIMITED
+(U74900MH2014PTC257995)
+0.01
+0.00
+10 Sep, 2014
+Active
+Active Compliant
+10 Sep, 2014
+29 Aug, 2016
+INDIAN SCHOOL OF BUSINESS
+(U80100TG1997NPL036631)
+0.00
+0.00
+3 Oct, 1997
+Active
+Active Compliant
+13 Nov, 1997
+16 Dec, 2024
+HERSHEY INDIA PRIVATE LIMITED
+(U24240MH1997PTC105714)
+833.10
+0.00
+7 Feb, 1997
+Active
+Active Compliant
+1 Jul, 2002
+27 Sep, 2012
+NUTRINE CONFECTIONERY COMPANY
+PRIVATE LIMITED
+(U15432MH1952PTC169547)
+154.72
+0.00
+14 Feb, 1952
+Active
+Active Compliant
+30 Jun, 2006
+27 Sep, 2012
+HICARE SERVICES PRIVATE LIMITED
+(U29294MH1993PTC072222)
+85.56
+0.00
+31 May, 1993
+Active
+Active Compliant
+31 May, 1993
+18 Jun, 2009
+GODREJ PROPERTIES LIMITED
+(L74120MH1985PLC035308)
+150.60
+4,345.65
+8 Feb, 1985
+Active
+Active Compliant
+25 Apr, 1990
+1 Apr, 2017
+GODREJ INDUSTRIES LIMITED
+(L24241MH1988PLC097781)
+33.68
+454.52
+7 Mar, 1988
+Active
+Active Compliant
+7 Mar, 1988
+30 Sep, 2021
+GODREJ CONSUMER PRODUCTS LIMITED
+(L24246MH2000PLC129806)
+102.30
+0.00
+29 Nov, 2000
+Active
+Active Compliant
+29 Nov, 2000
+30 Sep, 2021
+EUREKA OUTSOURCING SOLUTIONS PRIVATE
+LIMITED
+(U74140MH2002PTC136070)
+43.00
+12.37
+30 May, 2002
+Active
+Active Compliant
+17 Dec, 2003
+27 Dec, 2007
+Page 32 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay

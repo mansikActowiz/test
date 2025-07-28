@@ -1,0 +1,144 @@
+{
+  "Cash Flow - AOC-4 (Rs. Crore)": {
+    "31 Mar, 2022": {
+      "Cash Flows from / ( Used in ) Operating Activities": {
+        "Profit Before Tax": "783.65",
+        "Adjustment for Finance Cost and Depreciation": "-1,067.54",
+        "Adjustments for Current and Non-Current Assets": "738.07",
+        "Adjustments for Current and Non-Current Liabilities": "-305.20",
+        "Other Adjustments in Operating Activities": "855.52",
+        "Net Cash Flows from / ( Used in ) Operating Activities": null
+      },
+      "Cash Flows from / ( Used in ) Investing Activities": {
+        "Cash Outflow from Purchase of Assets": "19.43",
+        "Cash Inflow from Sale of Assets": "43.49",
+        "Income from Assets": "175.84",
+        "Other Adjustments in Investing Activities": "-536.08",
+        "Net Cash Flows from / ( Used in ) Investing Activities": null
+      },
+      "Cash Flows from / ( Used in ) Financing Activities": {
+        "Cash Outflow from Repayment of Capital and Borrowings": null,
+        "Cash Inflow from Raising Capital and Borrowings": "480.44",
+        "Interest and Dividends Paid": "333.43",
+        "Other Adjustments in Financing Activities": "-271.00",
+        "Net Cash Flows from / ( Used in ) Financing Activities": null
+      },
+      "Increase / ( Decrease ) in Cash and Cash Equivalents Before Effect of Exchange Rate Changes": "-18.43",
+      "Adjustments to Cash and Cash Equivalents": null,
+      "Net Increase / ( Decrease ) in Cash and Cash Equivalents": "-18.43",
+      "Cash and Cash Equivalents at End of Period": "391.03"
+    },
+    "31 Mar, 2023": {
+      "Cash Flows from / ( Used in ) Operating Activities": {
+        "Profit Before Tax": "713.05",
+        "Adjustment for Finance Cost and Depreciation": "-786.00",
+        "Adjustments for Current and Non-Current Assets": "963.98",
+        "Adjustments for Current and Non-Current Liabilities": "-112.96",
+        "Other Adjustments in Operating Activities": "974.46",
+        "Net Cash Flows from / ( Used in ) Operating Activities": null
+      },
+      "Cash Flows from / ( Used in ) Investing Activities": {
+        "Cash Outflow from Purchase of Assets": "45.96",
+        "Cash Inflow from Sale of Assets": "14.23",
+        "Income from Assets": "-175.05",
+        "Other Adjustments in Investing Activities": "-597.02",
+        "Net Cash Flows from / ( Used in ) Investing Activities": null
+      },
+      "Cash Flows from / ( Used in ) Financing Activities": {
+        "Cash Outflow from Repayment of Capital and Borrowings": null,
+        "Cash Inflow from Raising Capital and Borrowings": "244.52",
+        "Interest and Dividends Paid": "25.06",
+        "Other Adjustments in Financing Activities": "-333.31",
+        "Net Cash Flows from / ( Used in ) Financing Activities": null
+      },
+      "Increase / ( Decrease ) in Cash and Cash Equivalents Before Effect of Exchange Rate Changes": "44.13",
+      "Adjustments to Cash and Cash Equivalents": null,
+      "Net Increase / ( Decrease ) in Cash and Cash Equivalents": "44.13",
+      "Cash and Cash Equivalents at End of Period": "429.78"
+    },
+    "31 Mar, 2024": {
+      "Cash Flows from / ( Used in ) Operating Activities": {
+        "Profit Before Tax": "626.59",
+        "Adjustment for Finance Cost and Depreciation": "-690.63",
+        "Adjustments for Current and Non-Current Assets": "140.88",
+        "Adjustments for Current and Non-Current Liabilities": "-134.69",
+        "Other Adjustments in Operating Activities": "367.44",
+        "Net Cash Flows from / ( Used in ) Operating Activities": null
+      },
+      "Cash Flows from / ( Used in ) Investing Activities": {
+        "Cash Outflow from Purchase of Assets": "13.11",
+        "Cash Inflow from Sale of Assets": "20.79",
+        "Income from Assets": "23.97",
+        "Other Adjustments in Investing Activities": "-347.46",
+        "Net Cash Flows from / ( Used in ) Investing Activities": null
+      },
+      "Cash Flows from / ( Used in ) Financing Activities": {
+        "Cash Outflow from Repayment of Capital and Borrowings": null,
+        "Cash Inflow from Raising Capital and Borrowings": "188.15",
+        "Interest and Dividends Paid": "286.23",
+        "Other Adjustments in Financing Activities": "-38.41",
+        "Net Cash Flows from / ( Used in ) Financing Activities": null
+      },
+      "Increase / ( Decrease ) in Cash and Cash Equivalents Before Effect of Exchange Rate Changes": "48.44",
+      "Adjustments to Cash and Cash Equivalents": null,
+      "Net Increase / ( Decrease ) in Cash and Cash Equivalents": "48.44",
+      "Cash and Cash Equivalents at End of Period": "478.22"
+    }
+  },
+  "Ratios - AOC-4": {
+    "31 Mar, 2022": {
+      "Revenue Growth (%)": "23.5",
+      "Gross Profit Margin (%)": "44.9",
+      "EBITDA Margin (%)": "6.4",
+      "Net Margin (%)": "2.5",
+      "Return on Equity (%)": "3.0",
+      "Return on Capital Employed (%)": "3.0",
+      "Debt Ratio": "0.2",
+      "Debt / Equity": "0.3",
+      "Interest Coverage Ratio": "2.2",
+      "Current Ratio": "1.2",
+      "Quick Ratio": "0.7",
+      "Inventory / Sales (Days)": "82",
+      "Debtors / Sales (Days)": "77",
+      "Payables / Sales (Days)": "69",
+      "Cash Conversion Cycle (Days)": "90",
+      "Sales / Net Fixed Assets": "3.6"
+    },
+    "31 Mar, 2023": {
+      "Revenue Growth (%)": "18.1",
+      "Gross Profit Margin (%)": "45.6",
+      "EBITDA Margin (%)": "6.2",
+      "Net Margin (%)": "0.9",
+      "Return on Equity (%)": "1.2",
+      "Return on Capital Employed (%)": "3.1",
+      "Debt Ratio": "0.1",
+      "Debt / Equity": "0.3",
+      "Interest Coverage Ratio": "1.9",
+      "Current Ratio": "1.2",
+      "Quick Ratio": "0.8",
+      "Inventory / Sales (Days)": "72",
+      "Debtors / Sales (Days)": "71",
+      "Payables / Sales (Days)": "74",
+      "Cash Conversion Cycle (Days)": "69",
+      "Sales / Net Fixed Assets": "3.8"
+    },
+    "31 Mar, 2024": {
+      "Revenue Growth (%)": "10.7",
+      "Gross Profit Margin (%)": "48.1",
+      "EBITDA Margin (%)": "7.0",
+      "Net Margin (%)": "3.6",
+      "Return on Equity (%)": "3.9",
+      "Return on Capital Employed (%)": "4.3",
+      "Debt Ratio": "0.1",
+      "Debt / Equity": "0.2",
+      "Interest Coverage Ratio": "2.9",
+      "Current Ratio": "1.1",
+      "Quick Ratio": "0.7",
+      "Inventory / Sales (Days)": "68",
+      "Debtors / Sales (Days)": "70",
+      "Payables / Sales (Days)": "76",
+      "Cash Conversion Cycle (Days)": "62",
+      "Sales / Net Fixed Assets": "3.8"
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED Consolidated Financial Data": {
+    "31 Mar, 2022": {
+      "Balance Sheet - AOC-4 (Rs. Crore)": {
+        "Equity and Liabilities": {
+          "Equity": {
+            "Share Capital": "6.78",
+            "Reserves and Surplus": "10,746.82",
+            "Other Equity": "15,083.13",
+            "Total Equity": null
+          },
+          "Liabilities": {
+            "Non-current Liabilities": {
+              "Long Term Borrowings": "1,373.96",
+              "Net Deferred Tax Liabilities": "325.11",
+              "Other Long Term Liabilities": "674.01",
+              "Long Term Provisions": "121.38",
+              "Total Non-current Liabilities": "2,346.56"
+            },
+            "Current Liabilities": {
+              "Short Term Borrowings": "1,741.16",
+              "Trade Payables": "2,363.86",
+              "Other Current Liabilities": "1,927.61",
+              "Short Term Provisions": "111.20",
+              "Total Current Liabilities": "6,171.99"
+            },
+            "Total Equity and Liabilities": "19,227.02"
+          }
+        },
+        "Assets": {
+          "Net Fixed Assets": {
+            "Tangible Assets": "3,463.74",
+            "Intangible Assets": "43.20",
+            "Total Net Fixed Assets": "3,506.94"
+          },
+          "Capital Work-in-progress": "753.37",
+          "Other Non-current Assets": {
+            "Non-current Investments": "7,419.15",
+            "Net Deferred Tax Assets": "3.57",
+            "Long Term Loans and Advances": "61.15",
+            "Other Non-current Assets": "160.43",
+            "Total Other Non-current Assets": "7,644.30"
+          },
+          "Current Assets": {
+            "Current Investments": "24.09",
+            "Inventories": "2,803.24",
+            "Trade Receivables": "2,657.69",
+            "Cash and Bank Balances": "541.21",
+            "Short Term Loans and Advances": "36.20",
+            "Other Current Assets": "9,167.35",
+            "Total Current Assets": "1,695.36"
+          },
+          "Total Assets": "19,227.02"
+        }
+      }
+    },
+    "31 Mar, 2023": {
+      "Balance Sheet - AOC-4 (Rs. Crore)": {
+        "Equity and Liabilities": {
+          "Equity": {
+            "Share Capital": "6.78",
+            "Reserves and Surplus": "11,673.37",
+            "Other Equity": "11,612.64",
+            "Total Equity": null
+          },
+          "Liabilities": {
+            "Non-current Liabilities": {
+              "Long Term Borrowings": "1,446.01",
+              "Net Deferred Tax Liabilities": "663.90",
+              "Other Long Term Liabilities": "643.44",
+              "Long Term Provisions": "126.60",
+              "Total Non-current Liabilities": "2,541.16"
+            },
+            "Current Liabilities": {
+              "Short Term Borrowings": "2,726.09",
+              "Trade Payables": "2,981.25",
+              "Other Current Liabilities": "2,257.21",
+              "Short Term Provisions": "102.52",
+              "Total Current Liabilities": "7,082.14"
+            },
+            "Total Equity and Liabilities": "21,235.94"
+          }
+        },
+        "Assets": {
+          "Net Fixed Assets": {
+            "Tangible Assets": "3,897.98",
+            "Intangible Assets": "33.15",
+            "Total Net Fixed Assets": "3,931.13"
+          },
+          "Capital Work-in-progress": "400.79",
+          "Other Non-current Assets": {
+            "Non-current Investments": "8,401.30",
+            "Net Deferred Tax Assets": "5.94",
+            "Long Term Loans and Advances": "58.63",
+            "Other Non-current Assets": "168.38",
+            "Total Other Non-current Assets": "8,634.25"
+          },
+          "Current Assets": {
+            "Current Investments": "194.70",
+            "Inventories": "2,917.13",
+            "Trade Receivables": "2,860.00",
+            "Cash and Bank Balances": "549.15",
+            "Short Term Loans and Advances": "53.43",
+            "Other Current Assets": "8,269.77",
+            "Total Current Assets": "1,259.98"
+          },
+          "Total Assets": "21,235.94"
+        }
+      }
+    },
+    "31 Mar, 2024": {
+      "Balance Sheet - AOC-4 (Rs. Crore)": {
+        "Equity and Liabilities": {
+          "Equity": {
+            "Share Capital": "6.78",
+            "Reserves and Surplus": "-130.01",
+            "Other Equity": "10,708.47",
+            "Total Equity": null
+          },
+          "Liabilities": {
+            "Non-current Liabilities": {
+              "Long Term Borrowings": "802.72",
+              "Net Deferred Tax Liabilities": "67.51",
+              "Other Long Term Liabilities": "764.41",
+              "Long Term Provisions": "120.94",
+              "Total Non-current Liabilities": "2,351.97"
+            },
+            "Current Liabilities": {
+              "Short Term Borrowings": "2,726.09",
+              "Trade Payables": "3,429.99",
+              "Other Current Liabilities": "2,479.67",
+              "Short Term Provisions": "128.58",
+              "Total Current Liabilities": "8,764.33"
+            },
+            "Total Equity and Liabilities": "26,199.43"
+          }
+        },
+        "Assets": {
+          "Net Fixed Assets": {
+            "Tangible Assets": "4,007.85",
+            "Intangible Assets": "343.46",
+            "Total Net Fixed Assets": "4,351.31"
+          },
+          "Capital Work-in-progress": "484.78",
+          "Other Non-current Assets": {
+            "Non-current Investments": "11,884.75",
+            "Net Deferred Tax Assets": "12.29",
+            "Long Term Loans and Advances": "84.61",
+            "Other Non-current Assets": "214.34",
+            "Total Other Non-current Assets": "12,195.99"
+          },
+          "Current Assets": {
+            "Current Investments": "67.00",
+            "Inventories": "3,034.73",
+            "Trade Receivables": "3,159.16",
+            "Cash and Bank Balances": "484.22",
+            "Short Term Loans and Advances": "111.14",
+            "Other Current Assets": "7,322.41",
+            "Total Current Assets": null
+          },
+          "Total Assets": "26,199.43"
+        }
+      }
+    }
+  }
+}

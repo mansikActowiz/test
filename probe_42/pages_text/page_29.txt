@@ -1,0 +1,334 @@
+Probe42.in
+GODREJ AND BOYCE MANUFACTURING COMPANY LIMITED
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+PRADIP PANALAL SHAH ( DIN : 00066242 ) - Company:
+IGATE COMPUTER SYSTEMS LIMITED
+(L72200MH1978PLC020127)
+27.25
+0.00
+10 Feb, 1978
+Amalgamated
+12 Nov, 2003
+12 May, 2011
+GOKALDAS EXPORTS LIMITED
+(L18101KA2004PLC033475)
+36.55
+886.92
+1 Mar, 2004
+Active
+Active Compliant
+28 Jan, 2005
+21 Aug, 2007
+GI TECHNOLOGY PRIVATE LIMITED
+(U72200TN2005PTC057560)
+2.50
+0.00
+21 Sep, 2005
+Active
+Active Compliant
+1 Feb, 2015
+22 Sep, 2015
+GRINDWELL NORTON LIMITED
+(L26593MH1950PLC008163)
+55.36
+33.98
+31 Jul, 1950
+Active
+Active Compliant
+6 Mar, 2006
+1 Apr, 2019
+ASSET RECONSTRUCTION COMPANY (INDIA)
+LIMITED
+(U65999MH2002PLC134884)
+324.90
+820.00
+11 Feb, 2002
+Active
+Active Compliant
+12 Jun, 2003
+30 Sep, 2011
+WOCKHARDT HOSPITALS LIMITED
+(U85100MH1991PLC063096)
+190.36
+9.90
+28 Aug, 1991
+Active
+Active Compliant
+15 May, 2007
+8 May, 2009
+C.C.CHOKSHI ADVISORS PRIVATE LIMITED
+(U67190MH2008PTC181421)
+2.90
+0.00
+23 Apr, 2008
+Active
+Active Compliant
+24 Nov, 2008
+6 Aug, 2012
+MUKAND LIMITED
+(L99999MH1937PLC002726)
+150.12
+373.73
+29 Nov, 1937
+Active
+Active Compliant
+27 Sep, 2007
+30 Sep, 2014
+RTIL LIMITED
+(U17114MH2000PLC126018)
+134.60
+2,941.81
+19 Apr, 2000
+Under Liquidation
+30 Jul, 2010
+10 Aug, 2012
+SONATA SOFTWARE LIMITED
+(L72200MH1994PLC082110)
+28.04
+263.00
+18 Oct, 1994
+Active
+Active Compliant
+14 Jul, 1998
+10 Aug, 2024
+WYETH LIMITED
+(L85190MH1947PLC005963)
+22.72
+0.00
+20 Sep, 1947
+Amalgamated
+31 Mar, 2010
+30 Sep, 2014
+VAKRANGEE LIMITED
+(L65990MH1990PLC056669)
+108.32
+0.00
+28 May, 1990
+Active
+Active Compliant
+3 Mar, 2006
+28 Nov, 2008
+TATA INVESTMENT CORPORATION LIMITED
+(L67200MH1937PLC002622)
+50.60
+447.99
+5 Mar, 1937
+Active
+Active Compliant
+19 Jun, 2008
+5 Aug, 2019
+*PUC = Paid Up Capital
+*SOC = Sum of Charges
+*Date of Incorp. = Date of Incorporation
+Corporate Name
+  *PUC
+(Rs. Cr.)
+  *SOC
+(Rs. Cr.)
+*Date of
+Incorp.
+Status
+Appointment
+Date
+Cessation
+Date
+ANITA RAMACHANDRAN ( DIN : 00118188 ) - Company:
+ADITYA BIRLA SUN LIFE AMC LIMITED
+(L65991MH1994PLC080811)
+144.28
+10.25
+5 Sep, 1994
+Active
+Active Compliant
+25 Mar, 2025
+-
+ARAGEN LIFE SCIENCES LIMITED
+(U74999TG2000PLC035826)
+216.99
+633.80
+7 Dec, 2000
+Active
+Active Compliant
+7 Nov, 2022
+-
+BLUE STAR LIMITED
+(L28920MH1949PLC006870)
+41.12
+727.34
+20 Jan, 1949
+Active
+Active Compliant
+13 Jun, 2022
+-
+ULTRATECH CEMENT LIMITED
+(L26940MH2000PLC128420)
+1,358.19
+785.74
+24 Aug, 2000
+Active
+Active Compliant
+17 Jul, 2024
+-
+GRASIM INDUSTRIES LTD
+(L17124MP1947PLC000410)
+133.90
+0.00
+25 Aug, 1947
+Active
+Active Compliant
+14 Aug, 2018
+-
+UJJIVAN SMALL FINANCE BANK LIMITED
+(L65110KA2016PLC142162)
+1,935.21
+0.00
+4 Jul, 2016
+Active
+Active Compliant
+1 Jul, 2022
+-
+HAPPIEST MINDS TECHNOLOGIES LIMITED
+(L72900KA2011PLC057931)
+30.45
+635.67
+30 Mar, 2011
+Active
+Active Compliant
+4 Jun, 2020
+-
+NYKAA FOUNDATION
+(U85300MH2022NPL384226)
+0.01
+0.00
+8 Jun, 2022
+Active
+8 Jun, 2022
+-
+FSN E-COMMERCE VENTURES LIMITED
+(L52600MH2012PLC230136)
+285.97
+178.00
+24 Apr, 2012
+Active
+Active Compliant
+12 Oct, 2015
+-
+CONNEXUS CONSULTANTS PRIVATE LIMITED
+(U74140MH2000PTC130064)
+0.01
+0.00
+15 Dec, 2000
+Strike Off
+13 Apr, 2007
+-
+GEOMETRIC LIMITED
+(L72200MH1994PLC077342)
+13.38
+0.00
+25 Mar, 1994
+Amalgamated
+27 Mar, 2000
+-
+CEREBRUS CONSULTANTS PRIVATE LIMITED
+(U74140MH2000PTC127159)
+0.11
+0.10
+13 Jun, 2000
+Active
+Active Compliant
+13 Jun, 2000
+-
+METROPOLIS HEALTHCARE LIMITED
+(L73100MH2000PLC192798)
+10.36
+30.19
+10 Nov, 2000
+Active
+Active Compliant
+14 May, 2020
+17 Mar, 2025
+UTI HART FINANCIAL AND INVESTMENT
+SERVICES LIMITED
+(U82990MH2001PLC350211)
+4.55
+0.00
+27 Mar, 2001
+Active
+Active Compliant
+24 Apr, 2008
+24 Oct, 2011
+UTKARSH SMALL FINANCE BANK LIMITED
+(L65992UP2016PLC082804)
+1,101.61
+0.04
+30 Apr, 2016
+Active
+Active Compliant
+24 Aug, 2016
+23 Mar, 2022
+ESSEL MINING & INDUSTRIES LTD.
+(U51109WB1950PLC018728)
+1,958.21
+1,931.00
+1 Apr, 1950
+Active
+Active Compliant
+4 Sep, 2020
+9 Aug, 2022
+SAMHI HOTELS LIMITED
+(L55101DL2010PLC211816)
+22.12
+3,034.43
+28 Dec, 2010
+Active
+Active Compliant
+22 Aug, 2019
+5 Dec, 2020
+LOK ADVISORY SERVICES PRIVATE LIMITED
+(U74140HR2003PTC103215)
+0.03
+0.00
+18 Jul, 2003
+Active
+Active Compliant
+11 Dec, 2014
+17 Apr, 2018
+UTI ASSET MANAGEMENT COMPANY LIMITED
+(L65991MH2002PLC137867)
+128.05
+145.00
+14 Nov, 2002
+Active
+Active Compliant
+5 Dec, 2006
+20 Oct, 2011
+MORE RETAIL PRIVATE LIMITED
+(U65990MH1988PTC048117)
+454.48
+568.45
+14 Jul, 1988
+Active
+Active Compliant
+3 Jul, 2014
+28 Mar, 2019
+Page 26 of 192
+© PROBE INFORMATION SERVICES PRIVATE LIMITED (Probe) 2025. Probe42.in is a proprietary data and information service technology platform developed, owned and maintained by Probe Information
+Services Private Limited. Information on Probe42.in is meant for the sole and exclusive use of registered users only. Any information from the platform Probe42.in cannot be sold, licensed, rented or
+redistributed in any manner whatsoever. Information provided has been obtained from sources that are believed to be reliable, and reasonable efforts have been taken to ensure that it is accurate and properly
+aggregated. While due care has been taken in collecting information and its processing, Probe does not guarantee the accuracy of the information and is not liable for any damages in connection with the use
+of the information (in the presented form).
+Marked Copy For : Vijay
